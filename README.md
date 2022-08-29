@@ -1,1 +1,1 @@
-# .github
+## Open Rust Initiative
