@@ -1,12 +1,12 @@
 ## Welcome to the Open Rust Initiative 🙌
 
-<!--
+The Open Rust Initiative is a community of people who are passionate about Rust and want to make more creative projects with Rust. We are a group of volunteers who are dedicated to making community more inclusive and welcoming to all. We are committed to providing a safe, friendly, and harassment-free environment for everyone to enjoy programming with Rust.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. [Freighter](https://github.com/open-rust-initiative/freighter) is a crate registry project.
+2. [Benchflow](https://github.com/open-rust-initiative/benchflow) is a collections of cargo subcommands of benchmarking, compliance and other tools.
+3. [Gust](https://github.com/open-rust-initiative/gust) is a git monorepo host project.
+4. [Dags](htpts://github.com/open-rust-initiative/dags) is a DAG(directed acyclic graph) execute engine.
+5. [crates-insight](https://github.com/open-rust-initiative/crates-insight) is a protal with crates anlysis data.
+6. [dockyard](https://github.com/open-rust-initiative/dockyard) is a docker registry project.
+7. [rdiff](https://github.com/open-rust-initiative/rdiff) is a diff tool like [GNU Diffutils](https://www.gnu.org/software/diffutils).
+8. [rpmust](https://github.com/open-rust-initiative/rpmust) is a new rpm package manager rewrite with Rust.
