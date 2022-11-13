@@ -4,9 +4,8 @@ The Open Rust Initiative is a community of people who are passionate about Rust 
 
 1. [Freighter](https://github.com/open-rust-initiative/freighter) is a crate registry project.
 2. [Lathes](https://github.com/open-rust-initiative/lathes) is a collections of cargo subcommands of benchmarking, compliance and other tools.
-3. [Gust](https://github.com/open-rust-initiative/gust) is a git monorepo host project.
-4. [Dagrs](https://github.com/open-rust-Initiative/dagrs) is a DAG(directed acyclic graph) execute engine.
-5. [crates-insight](https://github.com/open-rust-initiative/crates-insight) is a protal with crates anlysis data.
-6. [dockyard](https://github.com/open-rust-initiative/dockyard) is a docker registry project.
-7. [rdiff](https://github.com/open-rust-initiative/rdiff) is a diff tool like [GNU Diffutils](https://www.gnu.org/software/diffutils).
-8. [rpmust](https://github.com/open-rust-initiative/rpmust) is a new rpm package manager rewrite with Rust.
+3. [Dagrs](https://github.com/open-rust-Initiative/dagrs) is a DAG(directed acyclic graph) execute engine.
+4. [crates-insight](https://github.com/open-rust-initiative/crates-insight) is a protal with crates anlysis data.
+5. [dockyard](https://github.com/open-rust-initiative/dockyard) is a docker registry project.
+6. [rdiff](https://github.com/open-rust-initiative/rdiff) is a diff tool like [GNU Diffutils](https://www.gnu.org/software/diffutils).
+7. [rpmust](https://github.com/open-rust-initiative/rpmust) is a new rpm package manager rewrite with Rust.
